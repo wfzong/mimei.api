@@ -1,0 +1,4 @@
+ThinkPHP
+*.log
+.vscode
+application/database.php
