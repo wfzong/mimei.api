@@ -9,3 +9,6 @@
 ├─ public web目录，将webroot指到此目录下
 ├─ ThinkPHP 库文件目录
 ~~~
+```
+# test
+```
